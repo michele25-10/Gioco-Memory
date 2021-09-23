@@ -63,6 +63,16 @@ namespace Memory_Michele_Gabrieli.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Coopertina {
+            get {
+                object obj = ResourceManager.GetObject("Coopertina", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Marvel_sfondo {
             get {
                 object obj = ResourceManager.GetObject("Marvel sfondo", resourceCulture);
