@@ -16,5 +16,15 @@ namespace Memory_Michele_Gabrieli
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_MouseClick(object sender, MouseEventArgs e)
+        {
+            
+        }
     }
 }
