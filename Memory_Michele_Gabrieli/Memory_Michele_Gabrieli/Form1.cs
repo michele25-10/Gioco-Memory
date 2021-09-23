@@ -16,5 +16,12 @@ namespace Memory_Michele_Gabrieli
         {
             InitializeComponent();
         }
+
+        private void Start_btn_Click(object sender, EventArgs e)
+        {
+            Schermata_Iniziale Start = new Schermata_Gioco();
+            Start.Show();
+            this.Hide();
+        }
     }
 }

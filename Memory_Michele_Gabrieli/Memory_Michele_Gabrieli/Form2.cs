@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Memory_Michele_Gabrieli
 {
-    public partial class Form2 : Form
+    public partial class Schermata_Gioco : Form
     {
-        public Form2()
+        public Schermata_Gioco()
         {
             InitializeComponent();
         }
