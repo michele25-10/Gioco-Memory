@@ -1,6 +1,6 @@
 ﻿namespace Memory_Michele_Gabrieli
 {
-    partial class Form1
+    partial class Schermata_Iniziale
     {
         /// <summary>
         /// Variabile di progettazione necessaria.
@@ -28,10 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Schermata_Iniziale
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.BackgroundImage = global::Memory_Michele_Gabrieli.Properties.Resources.Marvel_sfondo;
+            this.ClientSize = new System.Drawing.Size(1289, 560);
+            this.Name = "Schermata_Iniziale";
+            this.Text = "Marvel Edition";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
