@@ -1,0 +1,10 @@
+C:\Users\Michele Gabrieli\OneDrive\Documenti\GitHub\Gioco-Memory\MicheleGabrieli_Memory\MicheleGabrieli_Memory\bin\Debug\MicheleGabrieli_Memory.exe.config
+C:\Users\Michele Gabrieli\OneDrive\Documenti\GitHub\Gioco-Memory\MicheleGabrieli_Memory\MicheleGabrieli_Memory\bin\Debug\MicheleGabrieli_Memory.exe
+C:\Users\Michele Gabrieli\OneDrive\Documenti\GitHub\Gioco-Memory\MicheleGabrieli_Memory\MicheleGabrieli_Memory\bin\Debug\MicheleGabrieli_Memory.pdb
+C:\Users\Michele Gabrieli\OneDrive\Documenti\GitHub\Gioco-Memory\MicheleGabrieli_Memory\MicheleGabrieli_Memory\obj\Debug\MicheleGabrieli_Memory.csprojAssemblyReference.cache
+C:\Users\Michele Gabrieli\OneDrive\Documenti\GitHub\Gioco-Memory\MicheleGabrieli_Memory\MicheleGabrieli_Memory\obj\Debug\MicheleGabrieli_Memory.Form_Gioco.resources
+C:\Users\Michele Gabrieli\OneDrive\Documenti\GitHub\Gioco-Memory\MicheleGabrieli_Memory\MicheleGabrieli_Memory\obj\Debug\MicheleGabrieli_Memory.Properties.Resources.resources
+C:\Users\Michele Gabrieli\OneDrive\Documenti\GitHub\Gioco-Memory\MicheleGabrieli_Memory\MicheleGabrieli_Memory\obj\Debug\MicheleGabrieli_Memory.csproj.GenerateResource.cache
+C:\Users\Michele Gabrieli\OneDrive\Documenti\GitHub\Gioco-Memory\MicheleGabrieli_Memory\MicheleGabrieli_Memory\obj\Debug\MicheleGabrieli_Memory.csproj.CoreCompileInputs.cache
+C:\Users\Michele Gabrieli\OneDrive\Documenti\GitHub\Gioco-Memory\MicheleGabrieli_Memory\MicheleGabrieli_Memory\obj\Debug\MicheleGabrieli_Memory.exe
+C:\Users\Michele Gabrieli\OneDrive\Documenti\GitHub\Gioco-Memory\MicheleGabrieli_Memory\MicheleGabrieli_Memory\obj\Debug\MicheleGabrieli_Memory.pdb

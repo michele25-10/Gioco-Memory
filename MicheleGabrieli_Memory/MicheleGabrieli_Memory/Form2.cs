@@ -16,5 +16,30 @@ namespace MicheleGabrieli_Memory
         {
             InitializeComponent();
         }
+
+        private void Start_btn_Click(object sender, EventArgs e)
+        {
+            Start_btn.Visible = false;
+            Esci_btn.Visible = false;
+
+            PictureBox pictureBox1 = new PictureBox();  //Creazzione picture box da sostituire a bottone start_btn nel table panel
+            pictureBox1.Visible = false;
+            pictureBox1.ClientSize = new Size(253, 175);
+            pictureBox1.Dock = DockStyle.Fill;
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+
+            PictureBox pictureBox4 = new PictureBox();  //Creazzione picture box da sostituire a bottone esci_btn nel table panel
+            pictureBox1.Visible = false;
+            pictureBox1.ClientSize = new Size(253, 175);
+            pictureBox1.Dock = DockStyle.Fill;
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+        }
+
+        private void Esci_btn_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+
     }
 }
