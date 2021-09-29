@@ -16,7 +16,11 @@ namespace MicheleGabrieli_Memory
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_Gioco());
+            Application.Run(new Form_Start());
         }
+
+        public static string NomePlayer1;
+        public static string NomePlayer2;
+
     }
 }

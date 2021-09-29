@@ -10,46 +10,39 @@ using System.Windows.Forms;
 
 namespace MicheleGabrieli_Memory
 {
-    public partial class Form_Gioco : Form
+    public partial class Form_Start : Form
     {
-        public Form_Gioco()
+        public Form_Start()
         {
             InitializeComponent();
         }
 
-        private void Start_btn_Click(object sender, EventArgs e)
+        private void Regole_btn_Click(object sender, EventArgs e)
         {
-            Start_btn.Visible = false;
-            Esci_btn.Visible = false;
-
-            PictureBox pictureBox1 = new PictureBox();  //Creazzione picture box da sostituire a bottone start_btn nel table panel
-            pictureBox1.Visible = false;
-            pictureBox1.ClientSize = new Size(253, 175);
-            pictureBox1.Dock = DockStyle.Fill;
-            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-
-            PictureBox pictureBox4 = new PictureBox();  //Creazzione picture box da sostituire a bottone esci_btn nel table panel
-            pictureBox1.Visible = false;
-            pictureBox1.ClientSize = new Size(253, 175);
-            pictureBox1.Dock = DockStyle.Fill;
-            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-
-            AssegnazioneImmagini();
+            MessageBox.Show("MEMORY: \n -Lo scopo del gioco è di trovare le coppie delle figure.\n" +
+                "Il player che troverà più coppie vincerà.");
         }
 
-        private void Esci_btn_Click(object sender, EventArgs e)
+        private void Play_btn_Click(object sender, EventArgs e)
         {
-            Application.Exit();
-        }
+            Program.NomePlayer1 = NomePlayer1_txt.Text;
+            Program.NomePlayer2 = NomePlayer2_txt.Text;
 
+            if (NomePlayer1_txt.Text == "")
+            {
+                MessageBox.Show("Inserisci Nome Player 1!");
+            }
+            if (NomePlayer2_txt.Text == "")
+            {
+                MessageBox.Show("Inserisci Nome Player 2!");
+            }
 
-        
-
-        private void AssegnazioneImmagini()
-        {
-            Random random = new Random();
-            int NumeroCasuale;
-            NumeroCasuale = random.Next(0, 15);
+            if (NomePlayer1_txt.Text != "" || NomePlayer2_txt.Text != "")
+            {
+                Form_Gioco Gioco = new Form_Gioco();
+                Gioco.Show();
+                this.Hide();
+            }
         }
     }
 }
