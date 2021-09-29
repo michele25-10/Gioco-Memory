@@ -33,6 +33,8 @@ namespace MicheleGabrieli_Memory
             pictureBox1.ClientSize = new Size(253, 175);
             pictureBox1.Dock = DockStyle.Fill;
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+
+            AssegnazioneImmagini();
         }
 
         private void Esci_btn_Click(object sender, EventArgs e)
@@ -41,5 +43,13 @@ namespace MicheleGabrieli_Memory
         }
 
 
+        
+
+        private void AssegnazioneImmagini()
+        {
+            Random random = new Random();
+            int NumeroCasuale;
+            NumeroCasuale = random.Next(0, 15);
+        }
     }
 }

@@ -143,6 +143,16 @@ namespace MicheleGabrieli_Memory.Properties {
         /// <summary>
         ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap sfondo21 {
+            get {
+                object obj = ResourceManager.GetObject("sfondo21", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap thor {
             get {
                 object obj = ResourceManager.GetObject("thor", resourceCulture);

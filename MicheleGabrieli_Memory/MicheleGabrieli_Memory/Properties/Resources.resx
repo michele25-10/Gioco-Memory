@@ -118,29 +118,20 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Coopertina" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Coopertina.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sfondo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sfondo2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Marvel sfondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Marvel sfondo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Ironman" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Ironman.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Captain america" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Captain america.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Occhio di falco" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Occhio di falco.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="thor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\thor.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="hulk" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\hulk.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="vedova nera" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vedova nera.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ironman" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ironman.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Coopertina" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Coopertina.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="wanda" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\wanda.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -148,7 +139,19 @@
   <data name="black panter" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\black panter.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="vedova nera" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\vedova nera.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Marvel sfondo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Marvel sfondo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hulk" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hulk.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Occhio di falco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Occhio di falco.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sfondo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sfondo2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sfondo21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sfondo21.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
