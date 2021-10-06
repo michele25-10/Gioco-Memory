@@ -1,0 +1,12 @@
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Memory_Gabrieli\Memory_Gabrieli\bin\Debug\Memory_Gabrieli.exe.config
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Memory_Gabrieli\Memory_Gabrieli\bin\Debug\Memory_Gabrieli.exe
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Memory_Gabrieli\Memory_Gabrieli\bin\Debug\Memory_Gabrieli.pdb
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Memory_Gabrieli\Memory_Gabrieli\obj\Debug\Memory_Gabrieli.csprojAssemblyReference.cache
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Memory_Gabrieli\Memory_Gabrieli\obj\Debug\Memory_Gabrieli.Form_Start.resources
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Memory_Gabrieli\Memory_Gabrieli\obj\Debug\Memory_Gabrieli.Properties.Resources.resources
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Memory_Gabrieli\Memory_Gabrieli\obj\Debug\Memory_Gabrieli.csproj.GenerateResource.cache
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Memory_Gabrieli\Memory_Gabrieli\obj\Debug\Memory_Gabrieli.csproj.CoreCompileInputs.cache
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Memory_Gabrieli\Memory_Gabrieli\obj\Debug\Memory_Gabrieli.exe
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Memory_Gabrieli\Memory_Gabrieli\obj\Debug\Memory_Gabrieli.pdb
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Memory_Gabrieli\Memory_Gabrieli\obj\Debug\Memory_Gabrieli.Form_Gioco.resources
+C:\Users\Michele Gabrieli\OneDrive\Desktop\Memory_Gabrieli\Memory_Gabrieli\obj\Debug\Memory_Gabrieli.Form_Vincitore.resources
